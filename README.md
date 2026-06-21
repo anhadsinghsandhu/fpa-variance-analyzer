@@ -1,6 +1,6 @@
 # FP&A Variance Analyzer
 
-A Python tool that reads budget vs. actual financial data from a CSV, calculates variances, and uses the Claude API to generate a plain-English variance analysis — the kind a junior FP&A analyst would write for a weekly finance review.
+A Python tool that reads budget vs. actual financial data from a CSV, calculates variances, and uses the Claude API to generate a plain-English variance analysis, the kind a junior FP&A analyst would write for a weekly finance review.
 
 ## What It Does
 
